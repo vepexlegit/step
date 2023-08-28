@@ -1,0 +1,16 @@
+[
+{
+  "modid": "step",
+  "name": "Step",
+  "description": "This mod allows you to climb a block higher",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["vepexlegit"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
