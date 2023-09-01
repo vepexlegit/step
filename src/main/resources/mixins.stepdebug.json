@@ -1,8 +1,8 @@
 {
   "required": true,
   "minVersion": "0.7",
-  "package": "de.vepexlegit.step.mixins",
-  "refmap": "mixins.step.refmap.json",
+  "package": "de.vepexlegit.stepdebug.mixins",
+  "refmap": "mixins.stepdebug.refmap.json",
   "compatibilityLevel": "JAVA_8",
   "client": [
     "MixinEntity"
