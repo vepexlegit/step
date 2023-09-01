@@ -1,8 +1,8 @@
 [
 {
-  "modid": "step",
-  "name": "Step",
-  "description": "This mod allows you to climb a block higher",
+  "modid": "stepdebug",
+  "name": "StepDebug",
+  "description": "This mod is an addition to the main step mod.\nThis add-on will help you turn step on or off",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
